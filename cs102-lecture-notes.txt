@@ -1,0 +1,8 @@
+git clone -git clone creates a local working copy of the source code from a remote repository. 
+git push -uploads copy to the repository
+git status -shows current status
+git add .-adds file 
+git commit-That means the current state of the files/folders will be stored in the git repository permanently.
+
+“GitHub: updated cs102
+lecture notes”.
