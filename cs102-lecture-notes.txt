@@ -6,3 +6,15 @@ git commit-That means the current state of the files/folders will be stored in t
 
 “GitHub: updated cs102
 lecture notes”.
+
+
+I've learned a few git commands today along with how to use repository.
+Commands Ive learned today include:
+git clone
+git push
+git pull
+git add.
+git remote -v
+git status
+
+Git is used to interpret version control properly.
